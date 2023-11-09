@@ -1,0 +1,30 @@
+.cs-container{
+    margin-top: 20px;
+	margin-bottom: 200px;
+}
+
+.cs-page-title{
+    color:blueviolet;
+    text-align: center;
+	font-family: fantasy;
+}
+
+.cs-page-content{
+	color:purple;
+	margin-top: 20px;
+	font-family: fantasy;
+}
+
+.cs-list-text{
+	font-family: fantasy;
+}
+
+body{
+	background-color: #f7c5ad;
+}
+
+img {
+height: auto; 
+width: 100%;
+}
+	
